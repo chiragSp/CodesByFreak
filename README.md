@@ -4,11 +4,11 @@
 
 ---
 
-I am an aspering *Coder* and *Artist*.
+#### I am an aspering *Coder* and *Artist*.
 
 ---
 
-My Coding goals are:
+##### My Coding goals are:
 
 * [x] Html
 * [x] Css
