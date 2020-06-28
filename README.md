@@ -1,4 +1,5 @@
 #Hey Boi,
+
 ###Myself **FreakStar**,
 
 ---
@@ -9,12 +10,12 @@ I am an aspering *Coder* and *Artist*.
 
 My Coding goals are:
 
-* [x]Html
-* [x]Css
-* [ ]Js
-* [ ]Python
-* [ ]php
-* [ ]C++
+* [x] Html
+* [x] Css
+* [ ] Js
+* [ ] Python
+* [ ] php
+* [ ] C++
 
 ---
 
