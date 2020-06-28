@@ -1,6 +1,6 @@
-#Hey Boi,
+# Hey Boi,
 
-###Myself **FreakStar**,
+### Myself **FreakStar**,
 
 ---
 
