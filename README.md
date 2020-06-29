@@ -21,7 +21,7 @@
 
 |Thanks|For |Visiting!|
 |------|----|---------|
-|Have  |Nice|Day      |
+|Have a|Nice|Day      |
 
 ---
 
