@@ -13,7 +13,7 @@
 * [x] Html
 * [x] Css
 * [x] Js
-* [ ] Python
+* [x] Python
 * [ ] php
 * [ ] C++
 
