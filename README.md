@@ -14,8 +14,14 @@
 * [x] Css
 * [x] Js
 * [x] Python
-* [ ] php
+* [x] php
 * [ ] C++
+* [ ] C
+* [ ] C#
+
+##### Framework worked with:
+
+* [x] Django
 
 ---
 
